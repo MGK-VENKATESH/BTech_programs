@@ -1,10 +1,10 @@
 import java.io.*;
 import java.util.*;
-public class Main {
+public class SubstitutionCipher {
 static Scanner sc = new Scanner(System.in);
 static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 public static void main(String[] args) throws IOException {
-// TODO code application logic here
+
 String a = "abcdefghijklmnopqrstuvwxyz";
 String b = "zyxwvutsrqponmlkjihgfedcba";
 System.out.print("Enter any string: ");
